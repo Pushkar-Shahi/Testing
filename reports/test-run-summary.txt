@@ -1,0 +1,18 @@
+
+> flexhunter-mvp@1.0.0 test
+> vitest run
+
+
+ RUN  v5.1.0 /Users/shahi/Desktop/Learn/Product Development /app
+
+ ✓ src/test/properties.spec.js (4 tests) 49ms
+ ✓ src/test/mbt-crm.spec.js (1 test) 126ms
+ ✓ src/test/app-state-verification.spec.jsx (8 tests) 1129ms
+   ✓ FlexHunter UI State Verification (Semantic DOM & Persistence Testing) (8)
+     ✓ simulates Chrome extension overlay auto-fill and tracks application into Kanban CRM 652ms
+
+ Test Files  3 passed (3)
+      Tests  13 passed (13)
+   Start at  12:12:17
+   Duration  2.84s (environment 52%, tests 27%, setup 11%, import 7%, transform 1%, worker 1%)
+
