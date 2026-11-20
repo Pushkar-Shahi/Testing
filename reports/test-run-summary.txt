@@ -5,15 +5,17 @@
 
  RUN  v5.1.0 /Users/shahi/Desktop/Learn/Product Development /app
 
- ✓ src/test/properties.spec.js (4 tests) 33ms
- ✓ src/test/mbt-crm.spec.js (1 test) 91ms
- ✓ src/test/full-app-features.spec.jsx (3 tests) 526ms
- ✓ src/test/app-state-verification.spec.jsx (8 tests) 1126ms
+ ✓ src/test/properties.spec.js (4 tests) 39ms
+ ✓ src/test/mbt-crm.spec.js (1 test) 102ms
+ ✓ src/test/full-app-features.spec.jsx (3 tests) 782ms
+   ✓ FlexHunter Full Application Upgraded Capabilities (3)
+     ✓ opens Add Application modal, fills details, and prepends custom card into Kanban CRM 428ms
+ ✓ src/test/app-state-verification.spec.jsx (8 tests) 1427ms
    ✓ FlexHunter UI State Verification (Semantic DOM & Persistence Testing) (8)
-     ✓ simulates Chrome extension overlay auto-fill and tracks application into Kanban CRM 659ms
+     ✓ simulates Chrome extension overlay auto-fill and tracks application into Kanban CRM 675ms
 
  Test Files  4 passed (4)
       Tests  16 passed (16)
-   Start at  14:20:38
-   Duration  2.23s (environment 45%, tests 33%, setup 11%, import 8%, transform 2%, worker 1%)
+   Start at  14:32:27
+   Duration  2.58s (tests 41%, environment 36%, setup 13%, import 8%, transform 2%, worker 1%)
 
